@@ -1,0 +1,14 @@
+.header {
+  height: 10vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 3rem;
+
+  .logo-wrapper {
+    width: 30%;
+    img {
+      width: 100%;
+    }
+  }
+}
